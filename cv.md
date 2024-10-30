@@ -32,6 +32,7 @@ I have good interpersonal skills, am an excellent team worker and very willing t
 ## Education
 
 Self-study.
+
 RS School JavaScript/Front-end 2024Q4 Stage1 (in progress).
 
 ## English
